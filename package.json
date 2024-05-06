@@ -1,0 +1,21 @@
+{
+  "name": "adventure_games_by_abeera202",
+  "version": "1.0.0",
+  "description": "This package contains CLI Command Line Interface based different adventure games like Hunter assasin, Skeleton and Zombie. You can play these fun games and enjoy it",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AbeeraKhalid",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
